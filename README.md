@@ -1,4 +1,5 @@
-# Local conflict
+# Local conflict branch conflict
+# GitHab conflict branch conflict
 ## Authorization 
 
 Before pushing any code into the remote repository, you'll need to authorize 
